@@ -1,0 +1,7 @@
+URxvt.font: xft:mono:size=12
+URxvt.background: black
+URxvt.foreground: green
+URxvt.scrollBar: false
+URxvt.transparent: true
+URxvt.shading: 15
+
